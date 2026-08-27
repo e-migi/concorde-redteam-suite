@@ -157,3 +157,4 @@ Real-Time Status: Visual connection indicators
 Progress Tracking: Visual feedback for long operations
 
 Logging: Detailed timestamped logs
+Only for educational using!
